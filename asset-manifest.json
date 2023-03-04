@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/poros-art/static/css/main.1f115c6d.css",
+    "main.js": "/poros-art/static/js/main.8c0840c3.js",
+    "static/js/787.a65caac0.chunk.js": "/poros-art/static/js/787.a65caac0.chunk.js",
+    "static/media/PTSans-Regular.ttf": "/poros-art/static/media/PTSans-Regular.77e92507394e2309d837.ttf",
+    "static/media/Quicksand-Regular.ttf": "/poros-art/static/media/Quicksand-Regular.04b11c8f0d4d58c1bed1.ttf",
+    "static/media/Quicksand-Bold.ttf": "/poros-art/static/media/Quicksand-Bold.a0a11318dd0b528da77d.ttf",
+    "static/media/revicons.eot": "/poros-art/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/poros-art/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/poros-art/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/poros-art/index.html",
+    "main.1f115c6d.css.map": "/poros-art/static/css/main.1f115c6d.css.map",
+    "main.8c0840c3.js.map": "/poros-art/static/js/main.8c0840c3.js.map",
+    "787.a65caac0.chunk.js.map": "/poros-art/static/js/787.a65caac0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f115c6d.css",
+    "static/js/main.8c0840c3.js"
+  ]
+}
